@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/bert-demo/static/css/main.e3448a87.chunk.css",
+    "main.js": "/bert-demo/static/js/main.bcfabffe.chunk.js",
+    "main.js.map": "/bert-demo/static/js/main.bcfabffe.chunk.js.map",
+    "runtime-main.js": "/bert-demo/static/js/runtime-main.4bbb935c.js",
+    "runtime-main.js.map": "/bert-demo/static/js/runtime-main.4bbb935c.js.map",
+    "static/css/2.e6473e87.chunk.css": "/bert-demo/static/css/2.e6473e87.chunk.css",
+    "static/js/2.223dd3ae.chunk.js": "/bert-demo/static/js/2.223dd3ae.chunk.js",
+    "static/js/2.223dd3ae.chunk.js.map": "/bert-demo/static/js/2.223dd3ae.chunk.js.map",
+    "static/js/3.f81c1527.chunk.js": "/bert-demo/static/js/3.f81c1527.chunk.js",
+    "static/js/3.f81c1527.chunk.js.map": "/bert-demo/static/js/3.f81c1527.chunk.js.map",
+    "index.html": "/bert-demo/index.html",
+    "static/css/2.e6473e87.chunk.css.map": "/bert-demo/static/css/2.e6473e87.chunk.css.map",
+    "static/css/main.e3448a87.chunk.css.map": "/bert-demo/static/css/main.e3448a87.chunk.css.map",
+    "static/js/2.223dd3ae.chunk.js.LICENSE.txt": "/bert-demo/static/js/2.223dd3ae.chunk.js.LICENSE.txt",
+    "static/media/confusion_matrix.03a159f3.png": "/bert-demo/static/media/confusion_matrix.03a159f3.png",
+    "static/media/logo.bc8e8115.svg": "/bert-demo/static/media/logo.bc8e8115.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bbb935c.js",
+    "static/css/2.e6473e87.chunk.css",
+    "static/js/2.223dd3ae.chunk.js",
+    "static/css/main.e3448a87.chunk.css",
+    "static/js/main.bcfabffe.chunk.js"
+  ]
+}
